@@ -23,7 +23,7 @@ A basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**. 
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/simple-web-calculator.git
+git clone https://github.com/LubNeeder/Calculator.git
 cd simple-web-calculator
 
 2. Open index.html in your browser:
